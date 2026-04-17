@@ -1,1 +1,6 @@
-1111
+{
+  "versionCode": 2,
+  "versionName": "3.0.1",
+  "updateLog": "- 修复已知问题\n- 优化更新体验\n- 新增炫彩关于页",
+  "downloadUrl": "https://github.com/用户名/仓库名/releases/download/v3.0.1/app-release.apk"
+}
